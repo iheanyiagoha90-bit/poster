@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.paper {
+    background-color: rgb(124, 244, 124);
+}
+.paperless {
+    color: #fff;
+}
