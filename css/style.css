@@ -126,10 +126,7 @@ ul {
     padding: 10px 60px;
     font-size: 13px;
     border: none;
-}
-
-.button a {
-    color: white;
+     color: white;
 }
 
 .button:hover {
